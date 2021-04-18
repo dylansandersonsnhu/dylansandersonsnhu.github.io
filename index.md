@@ -8,15 +8,13 @@ To access the video review, you may click on the following:
 
 **_This video is password locked! The password is below:_**
 
-Password:
-
-SNHU
+Password: SNHU
 
 Lastly, the final three sections containing each artifact:
 _I'd recommend beginning by reading the narritive '.docx' file first, then exploring the other files._
 
-1. [Category One: Software Design and Engineering](https://github.com/dylansandersonsnhu/dylansandersonsnhu.github.io/tree/main/Software%20Design%20and%20Engineering)
-2. [Category Two: Algorithms and Data Structure](https://github.com/dylansandersonsnhu/dylansandersonsnhu.github.io/tree/main/Algorithms%20and%20Data%20Structure)
-3. [Category Three: Databases](https://github.com/dylansandersonsnhu/dylansandersonsnhu.github.io/tree/main/Databases)
+1. [Software Design and Engineering](https://github.com/dylansandersonsnhu/dylansandersonsnhu.github.io/tree/main/Software%20Design%20and%20Engineering)
+2. [Algorithms and Data Structure](https://github.com/dylansandersonsnhu/dylansandersonsnhu.github.io/tree/main/Algorithms%20and%20Data%20Structure)
+3. [Databases](https://github.com/dylansandersonsnhu/dylansandersonsnhu.github.io/tree/main/Databases)
 
 Thanks for your interest!
